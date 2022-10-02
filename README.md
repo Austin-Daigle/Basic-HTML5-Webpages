@@ -38,7 +38,7 @@ This repo has the various webpages that I have created learning while learning b
 
 ![image](https://user-images.githubusercontent.com/100094056/193436227-2e1d58b7-aece-4719-9fe7-1b5add49146c.png)
 
-# Daigle_habitudes
+# [Daigle_habitudes](https://github.com/Austin-Daigle/Basic-HTML5-Webpages/tree/main/Daigle_habitudes)
 
 ## Employabiltyskills.html
 
