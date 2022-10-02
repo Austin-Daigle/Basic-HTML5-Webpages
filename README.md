@@ -10,3 +10,11 @@ samplephotos.html
 Underwater.html
 
 ![image](https://user-images.githubusercontent.com/100094056/193436046-32110aed-a856-496b-b9a6-982cbda8d0a8.png)
+
+# [Daigle_tierra](https://github.com/Austin-Daigle/Basic-HTML5-Webpages/tree/main/Daigle_tierra)
+
+Daigle_tierra.html
+
+![image](https://user-images.githubusercontent.com/100094056/193436219-9bf5f953-6fe9-402d-a810-ac18c2ba6a77.png)
+
+![image](https://user-images.githubusercontent.com/100094056/193436227-2e1d58b7-aece-4719-9fe7-1b5add49146c.png)
