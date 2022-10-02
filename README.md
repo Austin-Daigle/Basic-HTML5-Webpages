@@ -1,6 +1,25 @@
 # Basic-HTML5-Webpages
 This repo has the various webpages that I have created learning while learning basic HTML, and CSS during 2014-2015. Below is a list of screenshot and directory link that show the HTML5/CSS code for every webpage in this repo.
 
+# [Daigle_oceanside](https://github.com/Austin-Daigle/Basic-HTML5-Webpages/tree/main/Daigle_oceanside)
+
+## oceanside.html
+
+![image](https://user-images.githubusercontent.com/100094056/193436461-dabd0034-5f96-4998-8f4e-ee634d444a29.png)
+
+## golf.html
+
+![image](https://user-images.githubusercontent.com/100094056/193436478-80bf6792-278b-4432-a0bc-76f50c16d5b0.png)
+
+## tennis.html
+
+![image](https://user-images.githubusercontent.com/100094056/193436490-acfa9054-09b7-4742-8ae1-b9a033f5c298.png)
+
+## dining.html
+
+![image](https://user-images.githubusercontent.com/100094056/193436507-0308c806-b285-485c-9817-86e300d63678.png)
+
+
 # [Daigle_underwater](https://github.com/Austin-Daigle/Basic-HTML5-Webpages/tree/main/Daigle_underwater)
 
 ## samplephotos.html
